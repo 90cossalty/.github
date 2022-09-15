@@ -30,7 +30,7 @@
 - Appropriate Documentation
   
 # Definition of Ready
-### GitLab Issue
+### GitHub Issue
 - Issue is written in user story format (as applicable according to the issue template)
 - The issue meets the INVEST criteria
     - I - Independent - the issue can be developed independently of other issues; eg changes in one user story does not effect another
