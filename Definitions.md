@@ -41,3 +41,19 @@
     - T - Testable - Testing is possible based on AC and Definition of Done
 - Acceptance Criteria included
 - Any amplifying information is included
+  
+### Acceptance Criteria
+All new tickets must be submitted in this format.
+
+```markdown
+### Estimate: X (For GitHub only, use the "Weight" section in GitLab to track estimates)
+# Objective
+
+- [ ] Task 1
+- [ ] Task 2
+
+# Acceptance Criteria
+- [ ] Meets Definition of Done
+- [ ] AC 2
+- [ ] AC 3
+```
